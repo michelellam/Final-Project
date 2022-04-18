@@ -26,8 +26,7 @@ Our game is a poop game. The main objective is avoid the falling poop with other
 * Non-Standard libraries
     * Pygame: https://www.pygame.org/docs/
     *   Pygame is a set of Python modules designed to create video games. It is easy to use as a beginners level.  
-* Class Interface Design
-    * ![class diagram](/assets/milestone3.png.pdf)
+
 * Classes
     * Controller.py - This is where we draw the screen and where it handles all the events that are happening in the game. 
     * bomb.py - This is where we create the bomb object, making the bomb fall each frame, the update method as well as display a message every time the player hits a bomb. 
@@ -52,8 +51,7 @@ The Project is broken down into the following file structure:
     * ![class](/assets/Milestone 3 -2.pdf)
     * ![player](/assets/player.png)
     * ![poop](/assets/poop.png)
-* etc
-    * ![demo](/etc/Yurtle.mp4)
+
 ***
 
 ## Tasks and Responsibilities *(Software Lead)*
